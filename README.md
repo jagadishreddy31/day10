@@ -1,5 +1,5 @@
 # 🐍 Python Code2Xplore – 60 Days Challenge
-## Day 10: User Profile Validation System
+## Day 10:
 
 **Student:** N.M.S.Jagadiswara Reddy  
 **Register Number:** AP24110011621  
